@@ -13,8 +13,8 @@ img{
     animation-fill-mode: forwards;
 }
 
-a > img:hovet {
-    filter: brightness(.7);
+a:hover {
+    filter: brightness(.9);
 }
 
 .sl{
