@@ -1,6 +1,6 @@
 @keyframes main {
     from {
-        filter: brightness(0);
+        filter: brightness(.5);
     }
 
     to {
@@ -9,7 +9,7 @@
 }
 
 img{
-    animation: main .5s;
+    animation: main .7s;
     animation-fill-mode: forwards;
 }
 
