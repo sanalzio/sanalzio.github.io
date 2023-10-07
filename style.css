@@ -9,7 +9,7 @@
 }
 
 img, a{
-    animation: main .5s;
+    animation: main .3s;
     animation-fill-mode: forwards;
 }
 
