@@ -1,6 +1,6 @@
 @keyframes main {
     from {
-        filter: brightness(0);
+        filter: brightness(0.6);
     }
 
     to {
