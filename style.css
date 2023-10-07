@@ -13,6 +13,10 @@ img{
     animation-fill-mode: forwards;
 }
 
+a > img:hovet {
+    filter: brightness(.7);
+}
+
 .sl{
     display: flex;
     flex-direction: column;
