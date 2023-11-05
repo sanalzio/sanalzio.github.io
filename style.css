@@ -70,6 +70,7 @@ img:not(#wave) {
 	padding: 3em;
 	background: #23c325;
 	margin: 0;
+	color: black;
 }
 
 h1{
