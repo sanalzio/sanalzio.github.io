@@ -28,6 +28,7 @@ body {
 }
 
 img:not(#wave) {
+	filter: brightness(0.3);
 	animation: main 2s;
 	animation-fill-mode: forwards;
 }
@@ -75,4 +76,10 @@ img:not(#wave) {
 
 h1{
     text-align: center;
+}
+
+img[align="center"] {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
